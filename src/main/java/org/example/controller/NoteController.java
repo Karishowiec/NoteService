@@ -1,4 +1,4 @@
-package org.example;
+package org.example.controller;
 
 import org.example.model.Note;
 import org.example.service.NoteService;
